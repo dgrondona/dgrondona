@@ -4,3 +4,4 @@ Hello, my name is Draven Grondona and I'm a Computer Science student at UC Merce
 
 [![Draven's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=dgrondona&show_icons=true&icon_color=ff0000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Draven's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=dgrondona&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dgrondona&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=dgrondona&hide_title=true&langs_count=4&theme=dark_github)
