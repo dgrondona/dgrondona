@@ -1,7 +1,35 @@
-![Draven Grondona](https://github.com/dgrondona/dgrondona/assets/160979453/9dd11e6c-5f61-48cc-afdd-02c2b72519ae)
+<picture>
+  <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/wordmark-narrow-dark.svg">
+  <source media="(max-width: 500px)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/wordmark-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/wordmark-wide-dark.svg">
+  <img alt="Draven Grondona — Computer Science and Engineering, University of California, Merced. Focus: security, systems, algorithms." src="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/wordmark-wide-light.svg">
+</picture>
 
-Hello, my name is Draven Grondona and I'm a Computer Science student at UC Merced. I am interested in Cybersecurity and love to learn all things Computer Science. I have experience in Python, C++, and System Administration through courses I've taken. I'm eager to continue learning and building my experience in programming and system administration. I've worked on a few projects already including a Python game inspired by Flappy Bird and a Minecraft server that I run from home using Ubuntu. This has made me familiar with the Linux CLI.
+<!--bio:intro-->
+Computer Science and Engineering student at UC Merced.
 
-[![Draven's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=dgrondona&show_icons=true&icon_color=ff0000&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Draven's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=dgrondona&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dgrondona&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=dgrondona&hide_title=true&langs_count=4&theme=dark_github)
+Coursework across algorithms, computer organization and full-stack development, plus a real-time multiplayer game built on Flask-SocketIO. Interested in Cybersecurity.
+<!--/bio:intro-->
+
+<picture>
+  <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/worklist-narrow-dark.svg">
+  <source media="(max-width: 500px)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/worklist-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/worklist-wide-dark.svg">
+  <img alt="Selected work: 67-Race, a real-time multiplayer racing game on Flask-SocketIO; CSE108, full-stack Flask and SQLAlchemy coursework; CSE100, algorithm design and analysis in C++; CSE030-Final, tic-tac-toe with minimax AI; CSE031-Project02, selection sort and recursive summation in MIPS assembly." src="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/worklist-wide-light.svg">
+</picture>
+
+<picture>
+  <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/stack-narrow-dark.svg">
+  <source media="(max-width: 500px)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/stack-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/stack-wide-dark.svg">
+  <img alt="Stack. Systems and runtime: C++, C, MIPS Assembly. Scripting and automation: Python, Bash, GitHub Actions. Web: JavaScript, React, Flask, SQLAlchemy. Tooling: Linux, Git, Make, SQLite." src="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/stack-wide-light.svg">
+</picture>
+
+<picture>
+  <source media="(max-width: 500px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/activity-narrow-dark.svg">
+  <source media="(max-width: 500px)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/activity-narrow-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/activity-wide-dark.svg">
+  <img alt="GitHub activity: contributions, repositories, languages, and weekly commit cadence." src="https://raw.githubusercontent.com/dgrondona/bio-components/main/out/activity-wide-light.svg">
+</picture>
+
+---
